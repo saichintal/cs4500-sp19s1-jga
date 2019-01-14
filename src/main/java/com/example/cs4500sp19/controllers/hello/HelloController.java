@@ -1,4 +1,4 @@
-package com.example.cs4500sp19s1jga.controllers.hello;
+package com.example.cs4500sp19.controllers.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

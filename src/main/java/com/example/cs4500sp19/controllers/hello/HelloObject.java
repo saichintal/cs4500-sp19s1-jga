@@ -1,4 +1,4 @@
-package com.example.cs4500sp19s1jga.controllers.hello;
+package com.example.cs4500sp19.controllers.hello;
 
 public class HelloObject {
 	private String message;
