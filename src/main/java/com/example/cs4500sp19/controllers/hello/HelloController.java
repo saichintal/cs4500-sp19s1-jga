@@ -15,6 +15,5 @@ public class HelloController {
 		HelloObject obj = new HelloObject("Hello Object CS4500!");
 		return obj;
 	}
-
 }
 
